@@ -123,3 +123,8 @@ button.primary:focus,
 .tabs-horiz .ui-state-active .ui-tabs-anchor{
     border-top: .4rem solid #3DBAC7 !important;
 }
+
+.menu-wrapper .logo .logo-img {
+    height: 50px !important;
+    width: 50px !important;
+}
